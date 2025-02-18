@@ -15,12 +15,11 @@ use crate::vehicles::*;
 use crate::stats::Statistics;
 use crate::pause::*;
 
-use sdl2::rect::Rect;
 use rand::Rng;
 
 fn main() -> Result<(), String> {
     let mut last_input_time = Instant::now(); 
-    let cooldown_duration = Duration::from_millis(400); 
+    let cooldown_duration = Duration::from_millis(500); 
     let sdl_context = sdl2::init()?;
     let video_subsystem = sdl_context.video()?;
 

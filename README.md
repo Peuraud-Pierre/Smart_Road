@@ -49,11 +49,17 @@ Pour exécuter la simulation, utilisez la commande suivante :
 cargo run
 ```
 
+## Commandes en jeu :
+
+Utilisez les flèches directionnelles pour faire apparaître des véhicules venant de chaque côté du carrefour.
+Appuyez sur R pour faire apparaître des véhicules de manière aléatoire.
+Appuyez sur W pour quitter la fenêtre de simulation.
+
 ## 👨‍💻 Auteurs
 
 Ce projet a été réalisé par :
+
 - [Pierre P.](https://zone01normandie.org/git/ppeuraud)
 - [Alan L.](https://zone01normandie.org/git/alebrume)
 - [Clement R.](https://zone01normandie.org/git/cringuet)
 - [Lucas P.](https://zone01normandie.org/git/lporte)
-
